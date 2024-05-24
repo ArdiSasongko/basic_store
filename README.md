@@ -2,4 +2,5 @@
 
 Membuat E-Commerce menggunakan golang 
 
-![ERD minimarket](https://github.com/ArdiSasongko/basic_store/assets/63091744/7e536165-5134-48ad-910f-e7babbddee82)
+![Flowchart](https://github.com/ArdiSasongko/basic_store/assets/63091744/532057af-c325-4558-b109-76c5bdf76f07)
+
