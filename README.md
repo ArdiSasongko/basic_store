@@ -31,7 +31,7 @@ Flowchart di atas menggambarkan alur kerja dari platform E-Commerce ini, mulai d
 
 
 ## ERD
-![erd](https://github.com/ArdiSasongko/basic_store/tree/main/asset/erd.jpg)
+![erd](asset/erd.jpg)
 
 ### Penjelasan ERD
 ERD di atas menggambarkan hubungan antara tiga entitas utama dalam sistem E-Commerce: `users`, `products`, dan `orders`.
